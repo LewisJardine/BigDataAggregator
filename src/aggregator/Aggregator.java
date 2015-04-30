@@ -1,10 +1,12 @@
+package aggregator;
+
+
 import java.io.IOException;
 import java.io.Reader;
 import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.commons.csv.*;
-
 
 public class Aggregator {
 
